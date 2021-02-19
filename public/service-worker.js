@@ -6,7 +6,7 @@ const THINGS_TO_CACHE = [
     "/index.html",
     "/db.js",
     "/styles.css",
-    "/styles.cssindex.js",
+    "/index.js",
     "/manifest.webmanifest",
     "/icons/icon-192x192.png",
     "/icons/icon-512x512.png",
