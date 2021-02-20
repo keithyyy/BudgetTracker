@@ -2,6 +2,8 @@
 
 Stay in touch with your money! Keep record of your spending and earnings with this budget tracker. Whether you're online or not, budgeting is at your fingertips.
 
+As a progressive work app (PWA), it is accompanied with a manifest so you are able to save it to your homescreen as a standalone app. It also comes with a service-worker, allowing you to use this app when offline.
+
 ## Contents
 
 1. [Installation](#installation)
